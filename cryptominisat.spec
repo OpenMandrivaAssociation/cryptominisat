@@ -10,6 +10,7 @@ URL:            http://www.msoos.org/cryptominisat2/
 Source0:        https://gforge.inria.fr/frs/download.php/32160/cmsat-%{version}.tar.gz
 Source1:	%{name}.rpmlintrc
 
+BuildRequires:  gomp-devel
 BuildRequires:  zlib-devel
 Requires:       %{name}-libs = %{version}-%{release}
 
