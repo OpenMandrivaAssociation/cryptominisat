@@ -1,6 +1,6 @@
 Name:           cryptominisat
 Version:        2.9.8
-Release:        1
+Release:        2
 Summary:        SAT solver
 
 # The Mersenne Twister implementation is BSD-licensed.
