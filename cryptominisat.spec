@@ -6,7 +6,7 @@ Summary:        SAT solver
 # The Mersenne Twister implementation is BSD-licensed.
 # All other files are MIT-licensed.
 License:        MIT
-URL:            http://www.msoos.org/cryptominisat2/
+URL:            https://www.msoos.org/cryptominisat2/
 Source0:        https://gforge.inria.fr/frs/download.php/32925/cmsat-%{version}.tar.gz
 Source1:	%{name}.rpmlintrc
 
